@@ -1,0 +1,44 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gradient{
+    background: rgb(182,36,36);
+background: linear-gradient(90deg, rgba(182,36,36,1) 0%, rgba(255,80,0,1) 29%, rgba(255,157,0,1) 53%, rgba(255,235,0,1) 79%, rgba(255,235,0,1) 100%);
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+}
+.feature{
+    color: white;
+}
+.icon {
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .gallery{
+      background-color: whitesmoke;
+  }
+  .gallery img{
+      border-radius: 5%;
+  }
+  .services{
+      color: white;
+  }
+  footer{
+      font-size: 1rem;
+      color: white;
+      margin: 0%;
+      padding: 1rem;
+  }
